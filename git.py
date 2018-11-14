@@ -1,3 +1,5 @@
+import os
+
 def introduction():
     print('Hello I am the Terminator')
 
@@ -7,5 +9,9 @@ def input():
 
 def square(num):
     return num*num
+
+def change():
+    os.system(clear)
+
 
     
