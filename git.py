@@ -13,5 +13,7 @@ def square(num):
 def change():
     os.system(clear)
 
+def ize():
+    print("Yo")
 
     
