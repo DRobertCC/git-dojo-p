@@ -8,4 +8,7 @@ def input():
 def square(num):
     return num*num
 
+def ize():
+    print("Yo")
+
     
